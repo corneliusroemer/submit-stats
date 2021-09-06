@@ -51,3 +51,7 @@ def quantile_q(q):
 df_pivot = df.pivot_table(index= ['lab','week'],values=['days_diff'],aggfunc=['count','min',quantile_q(5),quantile_q(25),quantile_q(50),quantile_q(75),quantile_q(95),'max'])
 df_pivot.to_csv('days_diff_by_submitting_lab_and_week.tsv',sep='\t')
 df_pivot
+# %%
+df_pivot.xs('2021-35', level=1, drop_level=False).sort_values(by=[('count','days_diff')],ascending=False)
+df_pivot.xs('2021-34', level=1, drop_level=False).sort_values(by=[('count','days_diff')],ascending=False)
+# %%
