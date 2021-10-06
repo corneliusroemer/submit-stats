@@ -24,6 +24,7 @@ Center for Laboratory Medicine St. Gallen	2021-35	48	4	4	6	8	10	12	12
 Center for Laboratory Medicine St. Gallen	2021-36	48	5	6	8	9	11	11	11
 Center for Laboratory Medicine St. Gallen	2021-37	46	4	5	7	8	10	10	10
 Center for Laboratory Medicine St. Gallen	2021-38	48	4	4	7	9	10	10	10
+Center for Laboratory Medicine St. Gallen	2021-39	48	4	5	7	9	10	10	10
 Department of Biosystems Science and Engineering, ETH Zürich	2020-22	249	48	48	55	60	70	73	74
 Department of Biosystems Science and Engineering, ETH Zürich	2020-24	90	30	35	92	93	94	99	100
 Department of Biosystems Science and Engineering, ETH Zürich	2020-25	100	43	46	49	50	57	60	60
@@ -76,7 +77,7 @@ Department of Biosystems Science and Engineering, ETH Zürich	2021-35	895	19	20	
 Department of Biosystems Science and Engineering, ETH Zürich	2021-36	334	19	21	23	29	29	29	33
 Department of Biosystems Science and Engineering, ETH Zürich	2021-37	1800	17	21	27	32	35	40	43
 Department of Biosystems Science and Engineering, ETH Zürich	2021-38	2342	13	18	24	31	33	35	62
-Department of Biosystems Science and Engineering, ETH Zürich	2021-39	2	117	118	120	124	127	129	130
+Department of Biosystems Science and Engineering, ETH Zürich	2021-39	1305	10	13	18	23	24	25	130
 Genesupport	2021-22	124	11	14	17	18	24	25	25
 Genesupport	2021-23	53	8	9	11	12	13	13	15
 Genesupport	2021-24	58	5	7	10	31	36	38	38
@@ -90,6 +91,7 @@ Genesupport	2021-34	205	14	14	17	18	19	23	26
 Genesupport	2021-35	84	8	8	9	17	18	20	23
 Genesupport	2021-37	76	10	10	11	13	14	22	25
 Genesupport	2021-38	118	11	12	14	16	17	21	23
+Genesupport	2021-39	90	11	11	12	12	15	18	23
 Genomics and Transcriptomics, Philip Morris International	2021-05	35	13	14	18	22	24	50	112
 Genomics and Transcriptomics, Philip Morris International	2021-11	243	13	15	21	25	39	53	54
 Genomics and Transcriptomics, Philip Morris International	2021-20	115	17	19	29	42	62	72	74
@@ -134,6 +136,7 @@ HUG, Laboratory of Virology and the Health2030 Genome Center	2021-35	254	8	8	10	
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-36	183	8	8	10	12	13	14	15
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-37	220	8	8	10	12	14	24	25
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-38	144	9	9	12	14	16	25	29
+HUG, Laboratory of Virology and the Health2030 Genome Center	2021-39	130	7	8	10	12	14	21	231
 Institute for Infectious Diseases, University of Bern	2020-41	73	139	176	189	199	203	209	213
 Institute for Infectious Diseases, University of Bern	2021-02	12	13	15	28	30	37	51	65
 Institute for Infectious Diseases, University of Bern	2021-03	8	8	8	9	10	13	14	15
@@ -160,8 +163,8 @@ Institute for Infectious Diseases, University of Bern	2021-34	103	5	5	7	17	18	19
 Institute for Infectious Diseases, University of Bern	2021-35	329	4	5	10	13	17	22	27
 Institute for Infectious Diseases, University of Bern	2021-36	267	5	6	10	11	12	14	245
 Institute for Infectious Diseases, University of Bern	2021-37	100	5	6	6	9	13	15	31
-Institute for Infectious Diseases, University of Bern	2021-38	175	3	4	6	14	15	16	32
-Institute for Infectious Diseases, University of Bern	2021-39	93	7	10	12	13	14	15	15
+Institute for Infectious Diseases, University of Bern	2021-38	178	3	4	6	14	15	16	32
+Institute for Infectious Diseases, University of Bern	2021-39	229	4	4	8	12	14	16	35
 Institute of Medical Virology, University of Zurich	2020-10	6	3	3	3	3	4	6	6
 Institute of Medical Virology, University of Zurich	2020-32	8	138	139	142	142	142	144	144
 Institute of Medical Virology, University of Zurich	2020-35	13	176	177	178	178	179	180	180
@@ -215,7 +218,7 @@ Laboratorio di Microbiologia	2021-30	116	2	3	4	5	7	10	18
 Laboratorio di Microbiologia	2021-34	178	15	16	17	20	24	28	32
 Laboratorio di Microbiologia	2021-35	173	7	10	13	15	18	20	26
 Laboratorio di Microbiologia	2021-37	182	7	8	12	16	18	21	23
-Laboratorio di Microbiologia	2021-39	71	10	12	14	16	19	21	25
+Laboratorio di Microbiologia	2021-39	82	10	11	13	16	19	21	25
 Laboratory of genomics and metagenomics, Lausanne	2021-06	1	17	17	17	17	17	17	17
 Laboratory of genomics and metagenomics, Lausanne	2021-07	56	19	20	22	27	29	35	89
 Laboratory of genomics and metagenomics, Lausanne	2021-09	57	47	49	51	52	55	64	68
@@ -240,6 +243,7 @@ Laboratory of genomics and metagenomics, Lausanne	2021-34	148	13	13	16	18	19	21	
 Laboratory of genomics and metagenomics, Lausanne	2021-35	232	6	8	10	12	14	17	24
 Laboratory of genomics and metagenomics, Lausanne	2021-37	26	12	13	13	14	15	15	16
 Laboratory of genomics and metagenomics, Lausanne	2021-38	119	10	12	14	16	19	24	29
+Laboratory of genomics and metagenomics, Lausanne	2021-39	215	6	8	12	16	19	25	31
 Microbiology, Dr. Risch	2021-31	36	26	27	30	32	118	123	124
 Microbiology, Dr. Risch	2021-32	42	20	23	28	31	127	129	129
 Microbiology, Dr. Risch	2021-33	27	14	14	15	16	18	22	28
@@ -290,7 +294,7 @@ University Hospital Basel, Clinical Bacteriology	2021-34	187	10	12	14	15	18	228	
 University Hospital Basel, Clinical Bacteriology	2021-35	48	13	13	13	16	18	21	24
 University Hospital Basel, Clinical Bacteriology	2021-37	89	25	26	26	28	33	43	43
 University Hospital Basel, Clinical Bacteriology	2021-38	486	7	9	16	21	29	42	52
-University Hospital Basel, Clinical Bacteriology	2021-39	60	7	8	9	10	13	16	17
+University Hospital Basel, Clinical Bacteriology	2021-39	112	7	8	9	11	14	17	24
 Valais Hospital, Central Institute	2021-22	180	7	8	11	14	17	21	23
 Valais Hospital, Central Institute	2021-24	53	11	11	14	15	16	17	18
 Valais Hospital, Central Institute	2021-25	31	11	11	13	15	16	17	20
