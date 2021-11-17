@@ -1,41 +1,83 @@
 		count	min	q5	q25	q50	q75	q95	max
+Center for Emerging Viral Diseases, Geneva University Hospitals and University of Geneva and Department of Microbiology and Molecular Medicine, Faculty of Medicine, University of Geneva.	2021-43	6	177	178	181	181	181	181	181
 Center for Laboratory Medicine St. Gallen	2021-39	48	4	5	7	9	10	10	10
 Center for Laboratory Medicine St. Gallen	2021-40	48	4	5	7	9	10	10	10
 Center for Laboratory Medicine St. Gallen	2021-41	48	4	4	6	8	10	10	11
+Center for Laboratory Medicine St. Gallen	2021-42	48	4	5	6	9	10	10	10
+Center for Laboratory Medicine St. Gallen	2021-43	48	4	4	6	8	10	10	11
+Center for Laboratory Medicine St. Gallen	2021-44	48	5	5	7	8	10	11	11
 Department of Biosystems Science and Engineering, ETH Zürich	2021-39	1302	10	13	18	23	24	25	130
 Department of Biosystems Science and Engineering, ETH Zürich	2021-40	1152	12	13	20	22	23	25	32
 Department of Biosystems Science and Engineering, ETH Zürich	2021-41	1210	10	12	18	20	22	24	26
+Department of Biosystems Science and Engineering, ETH Zürich	2021-42	1121	10	12	15	21	22	25	25
+Department of Biosystems Science and Engineering, ETH Zürich	2021-43	923	9	11	12	15	19	77	77
+Department of Biosystems Science and Engineering, ETH Zürich	2021-44	959	10	11	13	14	15	24	64
+Department of Biosystems Science and Engineering, ETH Zürich	2021-45	1047	8	9	11	12	15	16	19
+Dr Risch Laboratory	2021-45	172	7	8	8	11	13	14	18
 Genesupport	2021-39	90	11	11	12	12	15	18	23
 Genesupport	2021-40	90	11	11	12	13	16	20	23
 Genesupport	2021-41	54	12	12	13	14	17	20	31
+Genesupport	2021-43	86	13	13	14	15	18	20	22
+Genesupport	2021-44	182	11	11	12	14	18	24	27
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-39	130	7	8	10	12	14	21	231
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-40	38	9	9	10	16	19	24	26
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-41	74	8	9	11	12	14	18	24
+HUG, Laboratory of Virology and the Health2030 Genome Center	2021-42	77	8	8	10	12	14	17	18
+HUG, Laboratory of Virology and the Health2030 Genome Center	2021-43	126	8	8	10	12	13	16	25
+HUG, Laboratory of Virology and the Health2030 Genome Center	2021-44	103	8	9	12	13	15	18	21
+HUG, Laboratory of Virology and the Health2030 Genome Center	2021-45	179	8	8	11	12	14	17	18
 Institute for Infectious Diseases, University of Bern	2021-39	229	4	4	8	12	14	16	35
 Institute for Infectious Diseases, University of Bern	2021-40	81	5	6	7	8	11	16	19
 Institute for Infectious Diseases, University of Bern	2021-41	94	4	6	8	9	10	13	14
-Institute for Infectious Diseases, University of Bern	2021-42	15	9	9	11	11	12	13	13
-Institute of Medical Virology, University of Zurich	2021-39	190	7	10	13	14	16	20	23
+Institute for Infectious Diseases, University of Bern	2021-42	90	3	3	7	8	11	13	17
+Institute for Infectious Diseases, University of Bern	2021-43	37	7	8	10	11	11	11	12
+Institute for Infectious Diseases, University of Bern	2021-44	12	11	11	11	11	12	12	12
+Institute for Infectious Diseases, University of Bern	2021-45	356	8	9	11	13	16	19	27
+Institute of Medical Virology, University of Zurich	2021-39	191	7	10	13	14	16	20	23
 Institute of Medical Virology, University of Zurich	2021-40	194	7	8	12	14	15	18	24
-Institute of Medical Virology, University of Zurich	2021-41	111	9	10	14	16	17	21	31
-Institute of Medical Virology, University of Zurich	2021-42	149	9	11	15	17	19	27	29
+Institute of Medical Virology, University of Zurich	2021-41	113	9	10	14	16	17	21	31
+Institute of Medical Virology, University of Zurich	2021-42	188	9	10	14	16	19	26	29
+Institute of Medical Virology, University of Zurich	2021-43	203	8	9	12	13	16	23	26
+Institute of Medical Virology, University of Zurich	2021-44	28	14	14	16	17	19	22	34
+Institute of Medical Virology, University of Zurich	2021-45	274	12	14	17	18	21	25	37
 Laboratorio di Microbiologia	2021-39	82	10	11	13	16	19	21	25
 Laboratorio di Microbiologia	2021-40	61	8	9	13	15	17	18	23
 Laboratorio di Microbiologia	2021-41	45	7	7	9	12	14	15	16
-Laboratorio di Microbiologia	2021-42	32	6	7	9	10	12	13	14
+Laboratorio di Microbiologia	2021-42	37	6	7	9	9	12	13	14
+Laboratorio di Microbiologia	2021-43	30	8	8	9	11	14	15	16
+Laboratorio di Microbiologia	2021-44	53	7	8	10	11	13	15	16
+Laboratorio di Microbiologia	2021-45	54	6	6	8	10	12	14	14
 Laboratory of genomics and metagenomics, Lausanne	2021-39	215	6	8	12	16	19	25	31
 Laboratory of genomics and metagenomics, Lausanne	2021-41	55	9	10	12	14	16	19	23
-Laboratory of genomics and metagenomics, Lausanne	2021-42	42	8	10	11	14	15	19	21
-Microbiology	2021-41	313	6	10	14	20	32	43	176
-Microbiology, Dr. Risch	2021-41	99	33	34	35	40	42	51	56
-Microbiology_DrRisch_Buchs	2021-41	80	13	22	25	28	32	36	64
+Laboratory of genomics and metagenomics, Lausanne	2021-42	88	7	9	10	12	14	19	21
+Laboratory of genomics and metagenomics, Lausanne	2021-43	73	5	6	9	10	12	18	28
+Laboratory of genomics and metagenomics, Lausanne	2021-45	150	5	7	11	13	14	18	228
+Microbiology	2021-41	327	6	10	14	20	31	44	176
+Microbiology	2021-42	79	10	10	12	16	18	182	188
+Microbiology	2021-43	239	4	5	6	9	15	57	194
+Microbiology	2021-44	170	6	6	7	8	10	28	197
+Microbiology	2021-45	80	5	5	6	7	9	12	98
+Microbiology Lab Dr. Risch Buchs	2021-45	1	9	9	9	9	9	9	9
+Microbiology, Dr. Risch	2021-41	103	33	34	35	40	42	51	56
+Microbiology_DrRisch_Buchs	2021-41	82	13	22	25	28	32	36	64
 SRO AG	2021-40	75	10	11	13	17	20	21	23
+SRO AG	2021-42	29	13	14	17	20	23	24	27
+SRO AG	2021-43	16	11	11	12	14	15	15	15
+SRO AG	2021-44	22	11	11	12	14	15	15	16
+SRO AG	2021-45	21	11	11	12	13	15	15	15
 Synlab Bioggio	2021-40	43	9	9	14	17	19	21	22
 Synlab Bioggio	2021-41	19	9	10	11	14	14	15	16
+Synlab Bioggio	2021-43	61	6	7	10	15	22	25	25
+Synlab Bioggio	2021-45	27	11	12	14	14	15	15	16
 University Hospital Basel, Clinical Bacteriology	2021-39	112	7	8	9	11	14	17	24
 University Hospital Basel, Clinical Bacteriology	2021-40	94	7	7	9	12	14	16	79
 University Hospital Basel, Clinical Bacteriology	2021-41	31	5	5	11	14	18	58	58
-University Hospital Basel, Clinical Bacteriology	2021-42	143	6	7	11	13	16	26	59
+University Hospital Basel, Clinical Bacteriology	2021-42	181	6	7	11	13	16	32	59
+University Hospital Basel, Clinical Bacteriology	2021-43	105	5	5	7	10	12	17	76
+University Hospital Basel, Clinical Bacteriology	2021-44	169	6	10	12	15	69	72	88
+University Hospital Basel, Clinical Bacteriology	2021-45	126	8	8	9	10	11	21	95
 Valais Hospital, Central Institute	2021-40	133	11	11	14	18	21	25	32
 Valais Hospital, Central Institute	2021-41	32	17	18	18	18	20	22	23
-Valais Hospital, Central Institute	2021-42	61	12	12	13	15	18	19	22
+Valais Hospital, Central Institute	2021-42	101	9	10	12	13	16	19	22
+Valais Hospital, Central Institute	2021-43	72	8	8	9	11	12	15	17
+Valais Hospital, Central Institute	2021-45	43	13	13	14	16	17	18	19
