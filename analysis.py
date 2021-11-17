@@ -30,7 +30,13 @@ lab_normalisation = {'Clinical Bacteriology':'University Hospital Basel, Clinica
  'Hagmattstrasse 14, 4123 Allschwil, Switzerland': 'Viollier AG',
  'Switzerland': 'Department of Biosystems Science and Engineering, ETH Zürich',
  'Geneva Centre for Emerging Viral Diseases': 'HUG, Laboratory of Virology and the Health2030 Genome Center',
- 'University Hospitals of Geneva, Laboratory of Virology': 'HUG, Laboratory of Virology and the Health2030 Genome Center'}
+ 'University Hospitals of Geneva, Laboratory of Virology': 'HUG, Laboratory of Virology and the Health2030 Genome Center',
+ 'Center for Emerging Viral Diseases, Geneva University Hospitals and University of Geneva and Department of Microbiology and Molecular Medicine, Faculty of Medicine, University of Geneva.':'HUG, Laboratory of Virology and the Health2030 Genome Center',
+ 'Dr Risch Laboratory': 'Risch',
+ 'Microbiology_DrRisch_Buchs': 'Risch',
+ 'Microbiology, Dr. Risch': 'Risch',
+ 'Microbiology Lab Dr. Risch Buchs': 'Risch',
+ }
 
 def normalize(lab):
     if(lab in lab_normalisation):

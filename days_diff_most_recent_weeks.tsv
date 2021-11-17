@@ -1,5 +1,4 @@
 		count	min	q5	q25	q50	q75	q95	max
-Center for Emerging Viral Diseases, Geneva University Hospitals and University of Geneva and Department of Microbiology and Molecular Medicine, Faculty of Medicine, University of Geneva.	2021-43	6	177	178	181	181	181	181	181
 Center for Laboratory Medicine St. Gallen	2021-39	48	4	5	7	9	10	10	10
 Center for Laboratory Medicine St. Gallen	2021-40	48	4	5	7	9	10	10	10
 Center for Laboratory Medicine St. Gallen	2021-41	48	4	4	6	8	10	10	11
@@ -13,7 +12,6 @@ Department of Biosystems Science and Engineering, ETH Zürich	2021-42	1121	10	12
 Department of Biosystems Science and Engineering, ETH Zürich	2021-43	923	9	11	12	15	19	77	77
 Department of Biosystems Science and Engineering, ETH Zürich	2021-44	959	10	11	13	14	15	24	64
 Department of Biosystems Science and Engineering, ETH Zürich	2021-45	1047	8	9	11	12	15	16	19
-Dr Risch Laboratory	2021-45	172	7	8	8	11	13	14	18
 Genesupport	2021-39	90	11	11	12	12	15	18	23
 Genesupport	2021-40	90	11	11	12	13	16	20	23
 Genesupport	2021-41	54	12	12	13	14	17	20	31
@@ -23,7 +21,7 @@ HUG, Laboratory of Virology and the Health2030 Genome Center	2021-39	130	7	8	10	
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-40	38	9	9	10	16	19	24	26
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-41	74	8	9	11	12	14	18	24
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-42	77	8	8	10	12	14	17	18
-HUG, Laboratory of Virology and the Health2030 Genome Center	2021-43	126	8	8	10	12	13	16	25
+HUG, Laboratory of Virology and the Health2030 Genome Center	2021-43	132	8	8	10	12	14	24	181
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-44	103	8	9	12	13	15	18	21
 HUG, Laboratory of Virology and the Health2030 Genome Center	2021-45	179	8	8	11	12	14	17	18
 Institute for Infectious Diseases, University of Bern	2021-39	229	4	4	8	12	14	16	35
@@ -57,9 +55,8 @@ Microbiology	2021-42	79	10	10	12	16	18	182	188
 Microbiology	2021-43	239	4	5	6	9	15	57	194
 Microbiology	2021-44	170	6	6	7	8	10	28	197
 Microbiology	2021-45	80	5	5	6	7	9	12	98
-Microbiology Lab Dr. Risch Buchs	2021-45	1	9	9	9	9	9	9	9
-Microbiology, Dr. Risch	2021-41	103	33	34	35	40	42	51	56
-Microbiology_DrRisch_Buchs	2021-41	82	13	22	25	28	32	36	64
+Risch	2021-41	185	13	22	28	34	41	49	64
+Risch	2021-45	173	7	8	8	11	13	14	18
 SRO AG	2021-40	75	10	11	13	17	20	21	23
 SRO AG	2021-42	29	13	14	17	20	23	24	27
 SRO AG	2021-43	16	11	11	12	14	15	15	15
